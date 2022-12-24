@@ -1,0 +1,14 @@
+legacy~=0.1.6
+pip~=22.3.1
+wheel~=0.36.2
+Jinja2~=3.1.2
+MarkupSafe~=2.1.1
+Werkzeug~=2.2.2
+click~=8.1.3
+itsdangerous~=2.1.2
+automium~=0.2.6
+Flask~=2.2.2
+greenlet~=2.0.1
+setuptools~=57.0.0
+SQLAlchemy~=1.4.45
+zipp~=3.11.0
